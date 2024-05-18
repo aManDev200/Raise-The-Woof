@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.4",
+    "zod": "^3.22.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "rtw",
+  "version": "1.0.0",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aman154/main.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aman154/main/issues"
+  },
+  "homepage": "https://github.com/aman154/main#readme",
+  "description": ""
+}
